@@ -1,0 +1,3 @@
+Flavia: a Leaf Recognition Algorithm for Plant Classification using PNN (Probabilistic Neural Network)
+http://flavia.sourceforge.net/
+Stephen Gang Wu, Forrest Sheng Bao, Eric You Xu, Yu-Xuan Wang, Yi-Fan Chang and Chiao-Liang Shiang, A Leaf Recognition Algorithm for Plant classification Using Probabilistic Neural Network, IEEE 7th International Symposium on Signal Processing and Information Technology, Dec. 2007, Cario, Egypt
