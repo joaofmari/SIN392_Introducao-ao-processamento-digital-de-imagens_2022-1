@@ -6,7 +6,7 @@
 ### Prof. João Fernando Mari ([*joaofmari.github.io*](https://joaofmari.github.io/))
 ---
 
-### Aula 01 - Introdução ao processamento digital de imagens
+## Aula 01 - Introdução ao processamento digital de imagens
 * [Slides](/slides/Aula01.Introducao.(2022-1).pptx)
 * [Notebook](/notebooks/Aula%2001%20-%20Transformada%20de%20Radon.ipynb)
 
