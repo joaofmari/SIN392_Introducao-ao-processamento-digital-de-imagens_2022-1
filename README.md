@@ -84,7 +84,7 @@
 * GONZALEZ, R.C.; WOODS, R.E.; Processamento Digital de Imagens - 3ª edição. Editora Pearson, 2009.
 
 * MARQUES FILHO, O.; VIEIRA NETO, H. Processamento digital de imagens. Brasport, 1999. 
-    * Disponível no site do autor: http://dainf.ct.utfpr.edu.br/~hvieir/pub.html 
+    * Disponível em: http://dainf.ct.utfpr.edu.br/~hvieir/pub.html 
 
 * AZEVEDO, E.; CONCI, A.; LETA, F. Computação gráfica: processamento de imagens digitais. Vol.2. Campus-Elsevier, 2008.
 
@@ -102,9 +102,38 @@
 FRERY, A. C.; PECIANO, T. Introduction to image processing using R. Springer, 2013.
 
 * SOLEM E. Programming Computer Vision with Python. O´REILLY, 2012.
-    * Draft (rascunho) disponível para download pelos autores (exclusivo para uso pessoal): http://programmingcomputervision.com/
+    * Draft (rascunho) disponível para download: http://programmingcomputervision.com/
 
 * VELHO, L.; FRERY, A. C.; GOMES, J. Image processing for computer graphics and vision, 2 ed., Springer, 2009.
 
 * SZELISKI, R. Computer Vision: Algorithms and Applications, 2 ed. Springer, 2020.
-    * Draft (rascunho) disponível para download pelos autores (exclusivo para uso pessoal): http://programmingcomputervision.com/
+    * Draft (rascunho) disponível para download:http://programmingcomputervision.com/
+
+# Página 
+
+# Ferramentas computacionais
+
+* Anaconda Distribution
+    * https://www.anaconda.com/distribution/
+* Google Colab
+    * https://colab.research.google.com
+* Scikit-image
+    * https://scikit-image.org/
+* Scikit-learn
+    * https://scikit-learn.org/
+* OpenCv
+    * https://opencv.org/
+    * <i>Binding para Python</i>:
+        * https://pypi.org/project/opencv-python/
+        * https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_tutorials.html
+* PyTorch
+    * https://pytorch.org/
+
+# Conferências e periódicos
+* SIBGRAPI
+    * http://sibgrapi.sid.inpe.br/col/sid.inpe.br/banon/2001/03.30.15.38.24/doc/mirror.cgi
+* Workshop de Visão Computacional - WVC
+    * http://iris.sel.eesc.usp.br/wvc/
+
+---
+João Fernando Mari - UFV-CRP - 2022-1 - [joaofmari.github.io](joaofmari.github.io) - joaof.mari@ufv.br
