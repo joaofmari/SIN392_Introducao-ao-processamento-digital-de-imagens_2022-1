@@ -109,7 +109,9 @@ FRERY, A. C.; PECIANO, T. Introduction to image processing using R. Springer, 20
 * SZELISKI, R. Computer Vision: Algorithms and Applications, 2 ed. Springer, 2020.
     * Draft (rascunho) disponível para download:http://programmingcomputervision.com/
 
-# Página 
+# Edições anteriores da disciplina
+
+* [2020 (PER-2) - com video-aulas](https://joaofmari.github.io/ensino/sin392_2020_2.html)
 
 # Ferramentas computacionais
 
