@@ -72,7 +72,7 @@
 
 ## Aula 16 - Redes neurais artificiais
 * [Slides](/slides/Aula16.RedesNeuraisArtificiais.(2022-1).pdf)
-* [Notebook](/notebooks/Aula%2015%20-%20Classifica%C3%A7%C3%A3o%20de%20imagens.ipynb)
+* [Notebook](/notebooks/Aula%2016%20-%20Redes%20Neurais%20Artificiais%20-%20Perceptron.ipynb)
 
 ## Aula 17 - Redes Neurais convolucionais
 * [Slides](/slides/Aula17.RedesNeuraisConvolucionais.(2022-1).pdf)
