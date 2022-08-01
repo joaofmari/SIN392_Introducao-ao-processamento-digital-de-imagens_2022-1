@@ -7,7 +7,7 @@
 ---
 
 ## Aula 01 - Introdução ao processamento digital de imagens
-* [Slides](/slides/Aula01.Introducao.(2022-1).pptx)
+* [Slides](/slides/Aula01.Introducao.(2022-1).pdf)
 * [Notebook](/notebooks/Aula%2001%20-%20Transformada%20de%20Radon.ipynb)
 
 ## Aula 02 - Fundamentos da imagem digital I
@@ -99,7 +99,8 @@
 * COSTA L. F.; CESAR-JR. R. M. C. Shape classification and analysis: theory and practice. 2 ed. CRC Press, 2009.
 
 * DUDA, R.O.; HART, P.E.; STORK, D.G. Pattern Classification. Wiley, 2001.
-FRERY, A. C.; PECIANO, T. Introduction to image processing using R. Springer, 2013.
+
+* FRERY, A. C.; PECIANO, T. Introduction to image processing using R. Springer, 2013.
 
 * SOLEM E. Programming Computer Vision with Python. O´REILLY, 2012.
     * Draft (rascunho) disponível para download: http://programmingcomputervision.com/
@@ -107,7 +108,7 @@ FRERY, A. C.; PECIANO, T. Introduction to image processing using R. Springer, 20
 * VELHO, L.; FRERY, A. C.; GOMES, J. Image processing for computer graphics and vision, 2 ed., Springer, 2009.
 
 * SZELISKI, R. Computer Vision: Algorithms and Applications, 2 ed. Springer, 2020.
-    * Draft (rascunho) disponível para download:http://programmingcomputervision.com/
+    * Draft (rascunho) disponível para download: http://programmingcomputervision.com/
 
 # Edições anteriores da disciplina
 
