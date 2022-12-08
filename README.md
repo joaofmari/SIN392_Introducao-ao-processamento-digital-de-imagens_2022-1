@@ -138,5 +138,20 @@
 * Workshop de Visão Computacional - WVC
     * http://iris.sel.eesc.usp.br/wvc/
 
+# Citação
+
+* Como citar este material:
+
+```
+    @misc{mari_im_proc_2022,
+        author = {João Fernando Mari},
+        title = {Introdução ao processamento digital de imagens},
+        year = {2022},
+        publisher = {GitHub},
+        journal = {GitHub repository},
+        howpublished = {\url{https://github.com/joaofmari/SIN393_Introducao-ao-processamento-digital-de-imagens_2022-1}}
+    }
+```
+
 ---
 João Fernando Mari - UFV-CRP - 2022-1 - [joaofmari.github.io](joaofmari.github.io) - joaof.mari@ufv.br
